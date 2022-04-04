@@ -1,0 +1,15 @@
+C:\Users\gabri\dodev\exercicioViagem\obj\Debug\net6.0\exercicioViagem.csproj.AssemblyReference.cache
+C:\Users\gabri\dodev\exercicioViagem\obj\Debug\net6.0\exercicioViagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\dodev\exercicioViagem\obj\Debug\net6.0\exercicioViagem.AssemblyInfoInputs.cache
+C:\Users\gabri\dodev\exercicioViagem\obj\Debug\net6.0\exercicioViagem.AssemblyInfo.cs
+C:\Users\gabri\dodev\exercicioViagem\obj\Debug\net6.0\exercicioViagem.csproj.CoreCompileInputs.cache
+C:\Users\gabri\dodev\exercicioViagem\bin\Debug\net6.0\exercicioViagem.exe
+C:\Users\gabri\dodev\exercicioViagem\bin\Debug\net6.0\exercicioViagem.deps.json
+C:\Users\gabri\dodev\exercicioViagem\bin\Debug\net6.0\exercicioViagem.runtimeconfig.json
+C:\Users\gabri\dodev\exercicioViagem\bin\Debug\net6.0\exercicioViagem.dll
+C:\Users\gabri\dodev\exercicioViagem\bin\Debug\net6.0\exercicioViagem.pdb
+C:\Users\gabri\dodev\exercicioViagem\obj\Debug\net6.0\exercicioViagem.dll
+C:\Users\gabri\dodev\exercicioViagem\obj\Debug\net6.0\refint\exercicioViagem.dll
+C:\Users\gabri\dodev\exercicioViagem\obj\Debug\net6.0\exercicioViagem.pdb
+C:\Users\gabri\dodev\exercicioViagem\obj\Debug\net6.0\exercicioViagem.genruntimeconfig.cache
+C:\Users\gabri\dodev\exercicioViagem\obj\Debug\net6.0\ref\exercicioViagem.dll

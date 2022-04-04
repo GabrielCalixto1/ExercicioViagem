@@ -9,10 +9,10 @@ namespace exercicioViagem.AgenciaTurismo
         public DateTime DiaDaViagem {get; set;}
         public DateTime HorarioDaViagem {get; set;}
 
-        public void GetResumo();
+        /*public void GetResumo();
         {
 
-        }
+        }*/
         
     }
 }
